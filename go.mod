@@ -6,7 +6,7 @@ require (
 	github.com/gabriel-vasile/mimetype v1.4.0
 	github.com/mattn/go-xmlrpc v0.0.3
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d
-	github.com/pkg/errors v0.9.1
+	github.com/mitchellh/go-homedir v1.1.0
 	github.com/spf13/cast v1.4.1
 	github.com/spf13/cobra v1.4.0
 	github.com/spf13/viper v1.11.0
@@ -19,7 +19,6 @@ require (
 	github.com/magiconair/properties v1.8.6 // indirect
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
-	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/mitchellh/mapstructure v1.4.3 // indirect
 	github.com/pelletier/go-toml v1.9.4 // indirect
 	github.com/pelletier/go-toml/v2 v2.0.0-beta.8 // indirect
